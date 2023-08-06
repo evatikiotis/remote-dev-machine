@@ -1,0 +1,1 @@
+docker run -it -v /Users/evangelosvatikiotis/Documents/remote-dev-machine/projects:/home/devu/projects vaggelas/remote-machine:23.0
